@@ -1,4 +1,4 @@
-*/
+/*
 INTUITION:
 Whenever you get these kind of problems. Think in direction of two pointers. 
 IF this won't work then come up with brute force then try to optimize time using precomputation
@@ -7,7 +7,7 @@ IF this won't work then come up with brute force then try to optimize time using
 Similar problem:
 Maximum Chunks to make sorted-II
 
-/*
+*/
 
 int maxIndexDiff(int arr[], int n) 
 { 
@@ -35,3 +35,5 @@ int maxIndexDiff(int arr[], int n)
     
     return maxDiff;
 }
+
+
